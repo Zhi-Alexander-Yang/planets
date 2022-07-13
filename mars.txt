@@ -3,12 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 the days are long on mars
 the valleys are deep
-<<<<<<< HEAD
-here is really cold
-=======
-I would say very very deep
-this line added today 
-new lines 
-may be too deep
-
->>>>>>> 7c404802b2bf6cc944a1293cab1f42579c50427a
+We removed the conflict on this line
